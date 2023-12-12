@@ -33,8 +33,8 @@ public class Fpro {
 	}
 	
 	public void printData() {
-		System.out.println("Brand: " + brand);
-		System.out.println("Model: " + model);
+		System.out.println("Brand of the food processor: " + brand);
+		System.out.println("Model name: " + model);
 		System.out.println("Colour: " + colour);
 		System.out.println("Weight: " + weight);
 	}
