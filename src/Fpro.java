@@ -21,11 +21,12 @@ public class Fpro {
 	
 //methods...
 	public void chopping() {
-		System.out.println("Now it is chopping.");
+		System.out.println("Now it is chopping. It is great chopping");
 	}
 	
 	public void blending() {
 		System.out.println("Now it is blending.");
+		
 	}
 	
 	public void slicing() {
