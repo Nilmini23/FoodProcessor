@@ -50,7 +50,7 @@ public class Fpro {
 	public static void main(String[] args) {
 		Fpro obj1 = new Fpro();
 		Fpro obj2 = new Fpro();
-		obj1.changeValues("tina", "majiv", "white");
+		obj1.changeValues("Manasha", "majiv", "white");
 		obj1.printData();
 	}
 
