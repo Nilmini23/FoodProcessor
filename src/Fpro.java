@@ -19,7 +19,7 @@ public class Fpro {
 		this.weight = weight;
 	}
 	
-//methods...
+// Creating methods...
 	public void chopping() {
 		System.out.println("Now it is chopping. It is great chopping");
 	}
@@ -37,7 +37,7 @@ public class Fpro {
 		System.out.println("Brand of the food processor: " + brand);
 		System.out.println("Model name: " + model);
 		System.out.println("Colour: " + colour);
-		System.out.println("Weight: " + weight);
+		System.out.println("Weight of the food processor: " + weight);
 	}
 	
 	public void changeValues(String brand, String model, String colour) {
